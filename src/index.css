@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@keyframes pulseButton {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+}
+
+.animate-pulse-button {
+  animation: pulseButton 1.5s 4;
+
+}
