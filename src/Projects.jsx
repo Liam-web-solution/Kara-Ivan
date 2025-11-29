@@ -65,7 +65,7 @@ function Projects() {
         "A fully functional eCommerce store with a seamless user flow from product selection to checkout. Customers navigate pages, interact with hover states, manage their cart. (JAVASCRIPT, HTML5, CSS3)",
       image: ecommerceImg,
       btn: arrow,
-      link: "https://liam-web-solution.github.io/E-commerce-website/",
+      link: "https://liam-web-solution.github.io/e-commece-website/",
     },
     {
       id: 3,
